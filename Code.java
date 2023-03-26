@@ -120,7 +120,7 @@ public class Code
         if (count <= k) {
             return true;
         }
-        return false
+        return false;
     }
 
     // TODO return a new FSA that is the complement of A (Question 17)
